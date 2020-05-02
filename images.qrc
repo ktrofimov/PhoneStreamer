@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/hangup.png</file>
+        <file>images/cast_off.png</file>
+        <file>images/cast_on.png</file>
+        <file>images/db_off.png</file>
+        <file>images/db_on.png</file>
+        <file>images/inet_off.png</file>
+        <file>images/inet_on.png</file>
+        <file>images/pbx_off.png</file>
+        <file>images/pbx_on.png</file>
+        <file>images/call.png</file>
+        <file>images/trunk_off.png</file>
+        <file>images/trunk_on.png</file>
+        <file>images/ext_off.png</file>
+        <file>images/ext_on.png</file>
+        <file>images/unmute.png</file>
+        <file>images/mute.png</file>
+    </qresource>
+</RCC>
